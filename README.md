@@ -1,3 +1,9 @@
+watch the video on youtube!
+
+https://youtu.be/UatR8d0KQ_0
+
+
+
 # E-commerce-Storefront
 A modern e-commerce storefront UI built with React and Tailwind CSS.
 # LuxeLane – Modern E-commerce Storefront
@@ -79,4 +85,5 @@ This project is for educational/demo purposes.
 ---
 
 Made with ❤️ using React & Vite.
+
 
